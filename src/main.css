@@ -4621,6 +4621,7 @@ textarea.form-control-lg {
 .col-2 {
   flex: 0 0 auto;
   width: 16.66666667%;
+  Display: none;
 }
 
 .col-3 {
